@@ -34,5 +34,5 @@ login_Button.click()  # 点击登录按钮
 time.sleep(2)
 driver.close()
 driver.quit()
-print("刷步数成功，感谢您的使用")
+print("刷步数成功，感谢您的使用！")
 
